@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ip2location"]
+	path = ip2location
+	url = https://github.com/ip2location-com/ip2location-r
+[submodule "ip2locationio"]
+	path = ip2locationio
+	url = https://github.com/cran/ip2locationio
+[submodule "ip2proxy"]
+	path = ip2proxy
+	url = https://github.com/cran/ip2proxy
